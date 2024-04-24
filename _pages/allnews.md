@@ -1,7 +1,7 @@
 ---
-title: "Sanders Lab - News"
+title: "Zeng Lab - News"
 layout: textlay
-excerpt: "Sanders Lab at UCSF."
+excerpt: "Zeng Lab at SDAU."
 sitemap: false
 permalink: /allnews.html
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Sanders Lab - Code"
+title: "Zeng Lab - Code"
 layout: textlay
-excerpt: "Sanders Lab -- Code."
+excerpt: "Zeng Lab -- Code."
 sitemap: false
 permalink: /code/
 ---
@@ -48,13 +48,13 @@ This R package runs power calculations for the discovery of variants in whole ge
 
 ---
 
-## [SCN2A Variant Browser](https://public.tableau.com/profile/ucsf.psychiatry.bioinformatics.core#!/vizhome/SCN2AVariantViz6_0/Dashboard1)
+## [SCN2A Variant Browser](https://public.tableau.com/profile/SDAU.psychiatry.bioinformatics.core#!/vizhome/SCN2AVariantViz6_0/Dashboard1)
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/codepic/scn2aviz.png" style="width: 300px"> 
 
 The database SCN2A variants.
 
-- <a href="https://public.tableau.com/profile/ucsf.psychiatry.bioinformatics.core#!/vizhome/SCN2AVariantViz6_0/Dashboard1"><i class='fa fa-link'></i> Link</a>
+- <a href="https://public.tableau.com/profile/SDAU.psychiatry.bioinformatics.core#!/vizhome/SCN2AVariantViz6_0/Dashboard1"><i class='fa fa-link'></i> Link</a>
 - <a href="https://www.ncbi.nlm.nih.gov/pubmed/28256214"><i class='fa fa-book'></i> Paper</a>
 
 ---
