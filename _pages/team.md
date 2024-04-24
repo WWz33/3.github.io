@@ -182,7 +182,7 @@ permalink: /team/
 {% for member in site.data.team_members %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
-{% if member.group == 4 %}
+{% if member.group == 5 %}
 
 {% if even_odd == 0 %}
 <div class="row">
@@ -213,7 +213,7 @@ permalink: /team/
 ## Alumni
 
 {% for member in site.data.team_members %}
-{% if member.group == 8 %}
+{% if member.group == 6 %}
 
 <i class="alumni1">{{ member.name }}</i><br>
 <i class="alumni2">{{ member.info }} ({{ member.year }}</i>) {% if member.current %} 
