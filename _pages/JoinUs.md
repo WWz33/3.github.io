@@ -3,7 +3,7 @@ title: "Zeng Lab - Recruitment"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
-permalink: /recruitment/
+permalink: /JoinUS/
 ---
 
 # Open positions
