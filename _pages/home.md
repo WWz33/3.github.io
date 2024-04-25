@@ -40,7 +40,7 @@ We are grateful for funding from the.
 <figure class="third">
 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_SDAU.png" style="width: 200px">	<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_SDAU_agr.png" style="width: 200px">
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_SDAU_qlxt.jpeg" style="width: 200px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_BBRF.png" style="width: 200px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_SDAU_qlxt.png" style="width: 200px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_BBRF.png" style="width: 200px">
 </figure>
 
 
