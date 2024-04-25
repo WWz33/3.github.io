@@ -1,9 +1,9 @@
 ---
-title: "Zeng Lab - Recruitment"
+title: "Zeng Lab - Join Us"
 layout: textlay
-excerpt: "Openings"
+excerpt: "Join Us"
 sitemap: false
-permalink: /JoinUS/
+permalink: /JoinUs/
 ---
 
 # Open positions
