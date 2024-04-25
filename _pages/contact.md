@@ -10,14 +10,13 @@ permalink: /contact/
 
 ## Lab Location
 
-Zeng Lab is in the SDAU Mission Bay Campus ([Google Map](https://goo.gl/maps/wLQbKoAUSTS2)):
+Zeng Lab is in the SDAU Mission Bay Campus ：
 
-Room 448, Floor 4, Rock Hall
-1550 4th Street
-San Francisco
-CA 94158
+岱宗校区
+地址：山东省泰安市泰山区岱宗大街61号科创大楼414b
+邮编：271018
 
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>高德地图</title>
@@ -36,7 +35,7 @@ CA 94158
         // 高德地图API初始化
         var map = new AMap.Map('container', {
             zoom: 11, // 缩放级别
-            center: [116.397428, 39.90923] // 中心点坐标
+            center: [117.119124,36.195885] // 中心点坐标
         });
     </script>
 </body>
