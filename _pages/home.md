@@ -9,7 +9,7 @@ permalink: /
 # Welcome to Zeng Lab at SDAU
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/Lab_Logo_v6c.png){: style="width: 170px; float: left;margin-right: 20px; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/Lab_Logo_v6c.png){: style="width: 170px; float: left;margin-right: 25px; border: 12.5px"}
 &nbsp;&nbsp;&nbsp;
 
 The Zeng Lab aims to the growth cycle, nutrient efficiency, quality and other important traits of cotton and soybean main cash crops, the following research contents were carried out:
