@@ -9,19 +9,21 @@ permalink: /
 # Welcome to Zeng Lab at SDAU
 &nbsp;&nbsp;&nbsp;
 
-<table>
-    <tr>
-        <td valign="top"><img src="{{ site.url }}{{ site.baseurl }}/images/Lab_Logo_v6c.png" style="width: 180px; margin-right: 30px; border: 20px;" /></td>
-        <td>        <td>
-
-            The Zeng Lab aims to study the growth cycle, nutrient efficiency, quality, and other important traits of cotton and soybean, which are the main cash crops. The research focuses on the following areas:
-
-            1. **Laws of formation and evolution of superior economic traits**
-            2. **Cloning and molecular mechanism of important functional genes**
-            3. **Efficient and high-quality germplasm creation and genetic improvement**
-        </td>
-    </tr>
-</table>
+<div align="center">
+<table rules="none">
+<tr>
+<td>
+    <img src="{{ site.url }}{{ site.baseurl }}/images/Lab_Logo_v6c.png" style="width: 180px; margin-right: 30px; border: 20px solid transparent;" />
+</td>
+<td>
+    <p>The Zeng Lab aims to study the growth cycle, nutrient efficiency, quality, and other important traits of cotton and soybean, which are the main cash crops. The research focuses on the following areas:</p>
+    <p>1. <strong>Laws of formation and evolution of superior economic traits</strong></p>
+    <p>2. <strong>Cloning and molecular mechanism of important functional genes</strong></p>
+    <p>3. <strong>Efficient and high-quality germplasm creation and genetic improvement</strong></p>
+</td>
+</tr>
+</table>    
+</div>
 
 
 ### Joining Zeng Lab
