@@ -11,7 +11,7 @@ permalink: /
 
 <table>
     <tr>
-        <td valign="top"><img src="{{ site.url }}{{ site.baseurl }}/images/Lab_Logo_v6c.png" width="150"/></td>
+        <td valign="top"><img src="{{ site.url }}{{ site.baseurl }}/images/Lab_Logo_v6c.png" width="15"/></td>
         <td>        <td>
 
             The Zeng Lab aims to study the growth cycle, nutrient efficiency, quality, and other important traits of cotton and soybean, which are the main cash crops. The research focuses on the following areas:
