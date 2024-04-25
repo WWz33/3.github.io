@@ -17,7 +17,33 @@ Room 448, Floor 4, Rock Hall
 San Francisco
 CA 94158
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/contactpic/map.png" style="width: 600px">
+<!DOCTYPE html>
+<html>
+<head>
+    <title>高德地图</title>
+    <meta charset="utf-8">
+    <style>
+        #container {
+            width: 600px;
+            height: 400px;
+        }
+    </style>
+</head>
+<body>
+    <div id="container"></div>
+    <script type="text/javascript" src="https://webapi.amap.com/maps?v=1.4.15&key=1bcbd3aa9bd8fed4b8acf29e470dabe7"></script>
+    <script>
+        // 高德地图API初始化
+        var map = new AMap.Map('container', {
+            zoom: 11, // 缩放级别
+            center: [116.397428, 39.90923] // 中心点坐标
+        });
+    </script>
+</body>
+</html>
+
+
+<!-- <img src="{{ site.url }}{{ site.baseurl }}/images/contactpic/map.png" style="width: 600px"> -->
 
  
 ### Parking
