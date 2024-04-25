@@ -8,29 +8,33 @@
   photo: huihuiguo.jpg
   info: 教授，博士生导师
   url: shandong
-  group: 1
+  group: 0
 
 - name: 武剑飞
   photo: jianfeiwu.jpg
   info: 博士后
   url: davidyoung
-  group: 2
+  group: 1
 
 - name: 张莉
   photo: lizhang.jpg
   info: 博士生
   url: nickpage
-  group: 3
+  group: 2
 
 - name: 徐嘉伟
   photo: jiaweixu.jpg
   info: 硕士研究生
   url: clifduhn
+  group: 3
+
+- name: xxx
+  photo: jiaweixu.jpg
+  info: 本科生
+  url: clifduhn
   group: 4
 
-
-
-
+    
 # - name: xxx
 #   info: xxx
 #   url: 

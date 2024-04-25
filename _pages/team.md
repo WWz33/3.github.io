@@ -12,7 +12,7 @@ permalink: /team/
 
 ---
 
-## Principal Investigator
+## Research Scientist
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -45,7 +45,7 @@ permalink: /team/
 
 ---
 
-## Research Scientist
+## Postdoctoral Fellow
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -78,7 +78,7 @@ permalink: /team/
 
 ---
 
-## Postdoctoral Fellow
+## Ph.D. Student
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -111,7 +111,8 @@ permalink: /team/
 
 ---
 
-## Graduate Student
+## Master Student
+
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
