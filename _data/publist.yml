@@ -27,3 +27,23 @@
     display:  Fan et al. The Crop Journal (2023)
   highlight: 1
   news2:
+
+- title: "Somatic embryogenesis critical initiation stage-specific <sub>m</sub>CHH hypomethylation reveals epigenetic basis underlying embryogenic redifferentiation in cotton"
+  image: Guo2020pbj.png
+  description: 
+  authors: 
+  link:
+    url: https://doi.org/10.1111/pbi.13336
+    display:  Guo et al. Plant Biotechnol J (2020)
+  highlight: 1
+  news2:  
+
+- title: "Ethyl methanesulfonate mutant library construction in *Gossypium hirsutum* L. for allotetraploid functional genomics and germplasm innovation"
+  image: Lian2020pj.png
+  description: 
+  authors: 
+  link:
+    url: https://doi.org/10.1111/tpj.14755
+    display:  Lian et al. The Plant Journal (2020)
+  highlight: 1
+  news2:

@@ -12,27 +12,19 @@ permalink: /
 ![]({{ site.url }}{{ site.baseurl }}/images/Lab_Logo_v6c.png){: style="width: 170px; float: left;margin-right: 20px; border: 10px"}
 
 
-The Zeng Lab aims to 
+The Zeng Lab aims to the growth cycle, nutrient efficiency, quality and other important traits of cotton and soybean main cash crops, the following research contents were carried out:
 
 
-There are five main areas of research:
+There are three main areas of research:
 
-1. **Gene discovery**: 
-2. **Understanding the cotton genome**: 
-3. **xx**: 
-4. **xx**: 
-5. **xx**: I
+1. **Laws of formation and evolution of superior economic traits**: 
+2. **Cloning and molecular mechanism of important functional genes**: 
+3. **Efficient and high-quality germplasm creation and genetic improvement**: 
 
 
-
-### Technologies and methods
-The Zeng Lab is primarily a
-
-### Collaborators
-We work with closely with numerous collaborators, 
 
 ### Joining Zeng Lab
-If you are interested in joining please go to the [recruitment](recruitment) page.
+If you are interested in joining please go to the [Join Us](JoinUs) page.
 
 ### Funding
 We are grateful for funding from the.
