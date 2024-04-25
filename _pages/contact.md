@@ -13,7 +13,9 @@ permalink: /contact/
 Zeng Lab is in the SDAU Mission Bay Campus ：
 
 岱宗校区
+
 地址：山东省泰安市泰山区岱宗大街61号科创大楼414b
+
 邮编：271018
 
 
@@ -34,7 +36,7 @@ Zeng Lab is in the SDAU Mission Bay Campus ：
     <script>
         // 高德地图API初始化
         var map = new AMap.Map('container', {
-            zoom: 11, // 缩放级别
+            zoom: 20, // 缩放级别
             center: [117.119124,36.195885] // 中心点坐标
         });
     </script>
